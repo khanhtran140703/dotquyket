@@ -5,7 +5,9 @@ numpy
 scikit-learn
 tensorflow
 pandas
-
-
-
- 
+seaborn
+ensemble
+tree
+sklearn
+warnings
+matplotlib
