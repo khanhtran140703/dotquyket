@@ -1,7 +1,7 @@
 
 joblib
 
-
+numpy
 scikit-learn
 tensorflow
 pandas
