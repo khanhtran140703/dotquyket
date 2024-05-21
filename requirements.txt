@@ -5,94 +5,46 @@ numpy
 scikit-learn
 tensorflow
 pandas
-absl-py==2.1.0
+altair==5.3.0
 
- [2024-05-21 15:42:48.300449] + astunparse==1.6.3
+ + attrs==23.2.0[2024-05-21 15:42:50.260487] 
 
-certifi==2024.2.2
+ + blinker==1.8.2
 
- charset-normalizer==3.3.2
+ + cachetools==5.3.3
 
- flatbuffers==24.3.25
+ + click==8.1.7
 
- gast==0.5.4
+ + gitdb==4.0.11
 
- google-pasta==0.2.0
+ + gitpython==3.1.43
 
-  grpcio==1.64.0
+ + jinja2==3.1.4
 
- h5py==3.11.0
+ + jsonschema==4.22.0
 
- idna==3.7
+ + jsonschema-specifications==2023.12.1
 
- joblib==1.4.2
+ + pillow==10.3.0
 
- keras==3.3.3
+ + pyarrow==16.1.0
 
- libclang==18.1.1
+ + pydeck==0.9.1
 
-  markdown==3.6
+ + referencing==0.35.1
 
- markdown-it-py==3.0.0
+ + rpds-py==0.18.1
 
-  markupsafe==2.1.5
+ + smmap==5.0.1
 
-  mdurl==0.1.2
+ + streamlit==1.34.0
 
- ml-dtypes==0.3.2
+ + tenacity==8.3.0
 
-  namex==0.0.8
+ + toml==0.10.2
 
-  numpy==1.26.4
+ + toolz==0.12.1
 
-  [2024-05-21 15:42:48.300664] opt-einsum==3.3.0
+ + tornado==6.4
 
-  optree==0.11.0
-
- packaging==24.0
-
- pandas==2.2.2
-
- protobuf==4.25.3
-
- pygments==2.18.0
-
- python-dateutil==2.9.0.post0
-
- pytz==2024.1
-
- requests==2.32.1
-
- rich==13.7.1
-
- scikit-learn==1.4.2
-
-  scipy==1.13.0
-
- [2024-05-21 15:42:48.300791] setuptools==69.5.1
-
- setuptools==70.0.0
-
- six==1.16.0
-
- tensorboard==2.16.2
-
- tensorboard-data-server==0.7.2
-
- tensorflow==2.16.1
-
- tensorflow-io-gcs-filesystem==0.37.0
-
- termcolor==2.4.0
-
- threadpoolctl==3.5.0
-
- typing-extensions==4.11.0
-
- tzdata==2024.1
-
- urllib3==2.2.1
-
-  werkzeug==3.0.3
-
-  wrapt==1.16.0
+ + watchdog[2024-05-21 15:42:50.260644] ==4.0.0
