@@ -11,3 +11,4 @@ tree
 sklearn
 warnings
 matplotlib
+imbalanced-learn
