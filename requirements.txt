@@ -6,8 +6,8 @@ scikit-learn
 tensorflow
 pandas
 absl-py==2.1.0
-
- [2024-05-21 15:42:48.300449] + astunparse==1.6.3
+streamlit == 1.34.0
+ 
 
  certifi==2024.2.2
 
@@ -45,7 +45,7 @@ absl-py==2.1.0
 
   numpy==1.26.4
 
-  [2024-05-21 15:42:48.300664] opt-einsum==3.3.0
+
 
   optree==0.11.0
 
@@ -69,7 +69,7 @@ absl-py==2.1.0
 
   scipy==1.13.0
 
-  [2024-05-21 15:42:48.300791] setuptools==69.5.1
+
 
   setuptools==70.0.0
 
